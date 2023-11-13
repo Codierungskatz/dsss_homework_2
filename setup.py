@@ -4,7 +4,7 @@ setup(
     name='math_quiz',  # name of project
     version='1',  # version of project
     packages=find_packages(),  # included packages
-    install_requires=[ 'unittest', 'random'],
+    install_requires=['random'],
         # what i need to install
 
 
